@@ -32,7 +32,7 @@
     "@types/crypto-js": "^3.1.38",
     "@types/jssha": "0.0.29",
     "fs-extra": "^5.0.0",
-    "gts": "^0.8.0",
+    "gts": "^3.1.1",
     "sass": "^1.16.1",
     "typescript": "^2.6.1"
   },
